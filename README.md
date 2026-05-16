@@ -7,8 +7,8 @@ This repository contains my final project for the **ISE314 Data Visualization** 
 ### 🔗 Quick Links
 
 - 📓 **[Project Summary & Documentation (Notion)](https://lavish-rhythm-890.notion.site/ISE314-Data-Visualization-Project-Summary-3622c8a2755e806c972dd9d0e31285e0?source=copy_link)**: A complete, step-by-step breakdown of the ETL process, Power Query operations, Data Modeling, and DAX measures.
-- 🎥 **[5-Minute Messy Data Generation Presentation (YouTube/Drive Link)](#TODO)**
-- 🎥 **[5-Minute Visualization Part Presentation (YouTube/Drive Link)](#TODO)**
+- 🎥 **[5-Minute Messy Data Generation Presentation (YouTube/Drive Link)](https://youtu.be/Z2Y9onEaVl4)**
+- 🎥 **[5-Minute Visualization Part Presentation (YouTube/Drive Link)](https://youtu.be/p993iaYOHTo)**
 
 ---
 
