@@ -1,0 +1,122 @@
+[
+  {
+    "product_id": 1001,
+    "product_name": "Yoga Mat",
+    "category": "Electronics",
+    "stock": 379
+  },
+  {
+    "product_id": 1002,
+    "product_name": "Coffee Maker",
+    "category": "Home & Garden",
+    "stock": 114
+  },
+  {
+    "product_id": 1003,
+    "product_name": "Python Cookbook",
+    "category": "Clothing",
+    "stock": 346
+  },
+  {
+    "product_id": 1004,
+    "product_name": "Running Shoes",
+    "category": "Food & Beverage",
+    "stock": 16
+  },
+  {
+    "product_id": 1005,
+    "product_name": "Wireless Headphones",
+    "category": "Clothing",
+    "stock": 111
+  },
+  {
+    "product_id": 1006,
+    "product_name": "Backpack",
+    "category": "Electronics",
+    "stock": 287
+  },
+  {
+    "product_id": 1007,
+    "product_name": "Portable Charger",
+    "category": "Food & Beverage",
+    "stock": 112
+  },
+  {
+    "product_id": 1008,
+    "product_name": "Resistance Bands",
+    "category": "Sports",
+    "stock": 414
+  },
+  {
+    "product_id": 1009,
+    "product_name": "Wireless Headphones",
+    "category": "Books",
+    "stock": 357
+  },
+  {
+    "product_id": 1010,
+    "product_name": "Sunglasses",
+    "category": "Toys",
+    "stock": 142
+  },
+  {
+    "product_id": 1011,
+    "product_name": "Python Cookbook",
+    "category": "Home & Garden",
+    "stock": 490
+  },
+  {
+    "product_id": 1012,
+    "product_name": "Phone Case",
+    "category": "Clothing",
+    "stock": 47
+  },
+  {
+    "product_id": 1013,
+    "product_name": "Gaming Mouse",
+    "category": "Clothing",
+    "stock": 183
+  },
+  {
+    "product_id": 1014,
+    "product_name": "Notebook Set",
+    "category": "Sports",
+    "stock": 413
+  },
+  {
+    "product_id": 1015,
+    "product_name": "Smart Watch",
+    "category": "Automotive",
+    "stock": 274
+  },
+  {
+    "product_id": 1016,
+    "product_name": "Yoga Mat",
+    "category": "Food & Beverage",
+    "stock": 40
+  },
+  {
+    "product_id": 1017,
+    "product_name": "Bluetooth Speaker",
+    "category": "Toys",
+    "stock": 295
+  },
+  {
+    "product_id": 1018,
+    "product_name": "Portable Charger",
+    "category": "Clothing",
+    "stock": 23
+  },
+  {
+    "product_id": 1019,
+    "product_name": "Backpack",
+    "category": "Sports",
+    "stock": 40
+  },
+  {
+    "product_id": 1020,
+    "product_name": "Backpack",
+    "category": "Clothing",
+    "stock": 194
+  }
+]

@@ -1,0 +1,111 @@
+customer_info,order_date,product_id,price,quantity,shipping_address,status,discount,customer_rating,category_tag
+,2024-01-04,1019,"269,51",9,"Atatürk Cad. No:12, Sakarya, Turkey",Shipped,,4,Books
+Hakan Doğan|hakan37@outlook.com|05292800206,2023-05-18,1002,"209,58",0,"İstiklal Cad. No:7, Ankara, Turkey",Shippd,0.05,2,clothing
+Mert Öztürk|mert1@hotmail.com|05393426689,2024-08-24,1016,$19.29,0,"Cumhuriyet Blv. No:3, Antalya, TR",Returned,25%,0,Books
+Deniz Kurt|deniz77@yahoo.com|05147058670,20/04/2023,1001,180.19,-1,"Gazi Cad. No:88, Bursa, Türkiye",PROCESSING,25%,,home
+Tarık Güneş|tarık71@hotmail.com|05234233407,06-16-2024,1018,"421,19",-2,,Shippd,,4,
+Fatma Şahin|fatma3@yahoo.com|05392154992,2023-06-03,1006,316.62,1,"Gazi Cad. No:88, Antalya, Turkey",PROCESSING,5%,,Electronics
+Ayşe Polat|ayşe45@hotmail.com|05335014060,12/09/2024,1010,481.95,19,"İstiklal Cad. No:7, Ankara, Turkey",Cancelled,0.15,3,Electronics
+Hakan Doğan|hakan58@gmail.com|05216338793,03/08/2023,1014,€480.53,17,"Millet Cad. No:22, Istanbul, Turkey",Delivered,0.10,3,home
+Gül Yıldız|gül88@hotmail.com|05167499587,2024-12-28,1005,7.15,12,"Millet Cad. No:22, Istanbul, Türkiye",PROCESSING,25%,4,Home & Garden
+Emre Demir|emre3@hotmail.com|05334955699,2023-06-03,1004,$46.52,6,"Atatürk Cad. No:12, Sakarya, TURKEY",Processing,15%,5,clothing
+Barış Erdoğan|barış33@gmail.com|05248736811,2023-10-22,1010,"374,65",4,"Gazi Cad. No:88, Izmir, Türkiye",Shiped,0.10,2,clothing
+Selin Koç|selin48@outlook.com|05353078241,07-01-2023,1007,"109,64",11,"İstiklal Cad. No:7, Adana, TR",,30%,0,Electronics
+Zeynep Kaya|zeynep45@outlook.com|05199745141,12-14-2024,1020,124.13,-3,"Gazi Cad. No:88, Bursa, TR",Shipped,15%,2,clothing
+Gül Yıldız|gül69@gmail.com|05253679315,17/03/2024,1004,124.66,7,"İstiklal Cad. No:7, Istanbul, TURKEY",Cancelled,10%,5,
+Elif Çelik|elif82@hotmail.com|05157393310,2024-10-08,1002,$53.99,9,"Atatürk Cad. No:12, Ankara, Turkey",Processing,15%,1,Books
+Tarık Güneş|tarık69@yahoo.com|05585286905,03-15-2023,1003,"224,34",5,,Delivered,0.05,4,Electronics
+Fatma Şahin|fatma98@yahoo.com|05193503120,2023-09-28,1016,€437.0,0,"Bağdat Cad. No:45, Istanbul, Turkey",Cancelled,0.05,4,
+Barış Erdoğan|barış17@outlook.com|05159562677,31/07/2024,1020,$113.47,4,"Millet Cad. No:22, Istanbul, Türkiye",Cancelled,20%,4,electronics
+Hakan Doğan|hakan78@yahoo.com|05537813102,2023-11-23,1017,$88.47,17,"Bağdat Cad. No:45, Sakarya, TURKEY",Processing,0.15,3,Home & Garden
+Mert Öztürk|mert72@hotmail.com|05309049765,2023-04-22,1020,$100.17,12,"Millet Cad. No:22, Antalya, Turkey",Shipped,,5,Clothing
+Elif Çelik|elif51@hotmail.com|05556587495,2024-06-03,1018,€184.45,3,"Cumhuriyet Blv. No:3, Sakarya, Türkiye",Delivered,25%,2,Books
+Hakan Doğan|hakan58@gmail.com|05216338793,03/08/2023,1014,€480.53,17,"Millet Cad. No:22, Istanbul, Turkey",Delivered,0.10,3,home
+Elif Çelik|elif70@gmail.com|05423997281,15/05/2024,1005,"84,19",17,"Bağdat Cad. No:45, Istanbul, Türkiye",Shipped,,,Electronics
+,2024-01-04,1019,"269,51",9,"Atatürk Cad. No:12, Sakarya, Turkey",Shipped,,4,Books
+Ahmet Yılmaz|ahmet89@outlook.com|05409977469,03/11/2023,1002,€181.64,18,"Atatürk Cad. No:12, Antalya, TR",Processing,15%,4,BOOKS
+Emre Demir|emre94@outlook.com|05359650558,2023-03-06,1009,492.82,13,"Cumhuriyet Blv. No:3, Izmir, TR",Processing,20%,3,Books
+Barış Erdoğan|barış33@gmail.com|05248736811,2023-10-22,1010,"374,65",4,"Gazi Cad. No:88, Izmir, Türkiye",Shiped,0.10,2,clothing
+Ayşe Polat|ayşe50@gmail.com|05328501590,11-26-2024,1020,€275.01,2,"Gazi Cad. No:88, Ankara, Turkey",Deliverd,25%,2,BOOKS
+Elif Çelik|elif73@yahoo.com|05114475536,2024-11-24,1002,"205,61",-1,"Millet Cad. No:22, Adana, TR",Delivered,0.15,4,Books
+Barış Erdoğan|barış90@hotmail.com|05496503032,30/04/2023,1016,€374.55,6,,Returned,5%,2,Electronics
+Can Arslan|can11@outlook.com|05233800292,23/08/2023,1011,€149.22,17,"Bağdat Cad. No:45, Antalya, TR",,0%,,electronics
+Mert Öztürk|mert45@outlook.com|05228722606,29/01/2023,1007,128.52,18,"Atatürk Cad. No:12, Istanbul, Türkiye",Deliverd,0.10,5,Books
+Burak Aydın|burak89@hotmail.com|05469766777,06/01/2024,1016,69.51,18,"İstiklal Cad. No:7, Sakarya, Türkiye",Deliverd,0.10,6,
+Mert Öztürk|mert63@gmail.com|05123889032,05-18-2023,1017,$60.7,10,"İstiklal Cad. No:7, Adana, Türkiye",Cancelled,,3,Electronics
+Elif Çelik|elif48@yahoo.com|05491923227,01/05/2023,1018,80.58,16,"İstiklal Cad. No:7, Adana, Turkey",Deliverd,,5,Electronics
+Ayşe Polat|ayşe69@outlook.com|05354327421,2023-03-12,1003,24.93,17,,Cancelled,0.05,4,Electronics
+Barış Erdoğan|barış42@hotmail.com|05188746014,10-12-2023,1010,"427,46",9,"Millet Cad. No:22, Antalya, Turkey",Delivered,25%,4,Clothing
+Selin Koç|selin37@gmail.com|05307919359,2024-11-20,1018,€254.07,-1,"Cumhuriyet Blv. No:3, Izmir, TR",Processing,15%,2,
+Fatma Şahin|fatma65@gmail.com|05101738833,2023-08-17,1016,257.84,11,"Cumhuriyet Blv. No:3, Sakarya, Turkey",Processing,20%,4,Books
+Burak Aydın|burak86@hotmail.com|05212149597,09-29-2023,1016,$99.0,1,"İstiklal Cad. No:7, Sakarya, TURKEY",Delivered,10%,1,home
+Merve Aksoy|merve13@hotmail.com|05514607488,23/07/2024,1003,€141.13,1,"Millet Cad. No:22, Istanbul, Türkiye",Cancelled,25%,5,BOOKS
+Merve Aksoy|merve5@gmail.com|05202256030,2024-09-10,1013,420.32,1,"Millet Cad. No:22, Adana, TR",Returned,25%,1,Books
+Burak Aydın|burak52@gmail.com|05224191175,24/01/2024,1004,€331.2,0,"İstiklal Cad. No:7, Bursa, TURKEY",Shippd,30%,5,Home & Garden
+Zeynep Kaya|zeynep68@outlook.com|05243151610,07/07/2024,1009,$473.82,2,"Cumhuriyet Blv. No:3, Istanbul, TR",Shippd,0.15,4,home
+Elif Çelik|elif79@yahoo.com|05444666525,31/07/2023,1018,"88,26",6,"İstiklal Cad. No:7, Adana, TR",Processing,20%,,
+Can Arslan|can95@yahoo.com|05344289394,10/01/2023,1011,$9.17,19,"Cumhuriyet Blv. No:3, Izmir, Türkiye",Processing,0.15,5,
+Selin Koç|selin21@gmail.com|05409131572,03/11/2024,1002,$311.49,16,"Bağdat Cad. No:45, Antalya, Turkey",,0.10,6,Books
+Barış Erdoğan|barış40@yahoo.com|05471191859,2024-12-03,1006,€369.63,-3,"Millet Cad. No:22, Istanbul, Türkiye",Shiped,20%,,Books
+Hakan Doğan|hakan78@outlook.com|05386080483,03-05-2023,1015,"381,14",15,"Millet Cad. No:22, Istanbul, Türkiye",Deliverd,,6,ELECTRONICS
+Can Arslan|can15@hotmail.com|05463384080,2024-01-18,1006,€122.09,2,"İstiklal Cad. No:7, Izmir, Turkey",Processing,0%,0,ELECTRONICS
+Ahmet Yılmaz|ahmet34@yahoo.com|05489548370,03-03-2023,1020,305.76,20,"Cumhuriyet Blv. No:3, Adana, TURKEY",Cancelled,5%,6,Home & Garden
+Mert Öztürk|mert46@hotmail.com|05212795437,03-22-2023,1014,$422.06,1,"Millet Cad. No:22, Ankara, TR",Processing,,2,Electronics
+Fatma Şahin|fatma43@yahoo.com|05162244876,2024-02-24,1014,"442,85",2,"Millet Cad. No:22, Izmir, Türkiye",Processing,15%,5,Electronics
+Burak Aydın|burak49@outlook.com|05571514340,16/12/2023,1002,€302.2,6,"Atatürk Cad. No:12, Ankara, Turkey",Shipped,,2,electronics
+Can Arslan|can12@hotmail.com|05495204819,01/03/2024,1015,"103,61",6,"Gazi Cad. No:88, Antalya, Türkiye",Processing,0%,4,clothing
+Elif Çelik|elif88@hotmail.com|05266284972,08-09-2023,1003,"286,07",15,"Cumhuriyet Blv. No:3, Antalya, Türkiye",Delivered,,6,clothing
+Tarık Güneş|tarık65@outlook.com|05213777286,2023-07-24,1005,43.2,1,"İstiklal Cad. No:7, Antalya, TURKEY",Delivered,30%,4,Home & Garden
+Merve Aksoy|merve84@gmail.com|05113084353,02/01/2023,1018,"69,64",15,"Gazi Cad. No:88, Adana, TR",Returned,10%,5,electronics
+Barış Erdoğan|barış7@yahoo.com|05244340845,12/04/2024,1017,$397.9,12,"Cumhuriyet Blv. No:3, Antalya, Türkiye",,30%,6,Home & Garden
+Mert Öztürk|mert7@gmail.com|05556752576,11/10/2023,,498.07,15,"Bağdat Cad. No:45, Adana, Türkiye",Returned,0.15,4,BOOKS
+Mert Öztürk|mert46@hotmail.com|05212795437,03-22-2023,1014,$422.06,1,"Millet Cad. No:22, Ankara, TR",Processing,,2,Electronics
+Can Arslan|can32@hotmail.com|05239375710,08-20-2024,1009,€319.66,11,"Gazi Cad. No:88, Bursa, TR",Delivered,10%,3,Electronics
+Gül Yıldız|gül60@outlook.com|05447594429,24/08/2023,1007,"41,15",15,"Millet Cad. No:22, Sakarya, TR",Delivered,10%,5,BOOKS
+Deniz Kurt|deniz45@outlook.com|05429703982,2024-03-24,1006,"308,28",17,"Atatürk Cad. No:12, Sakarya, Türkiye",Shippd,5%,5,electronics
+Zeynep Kaya|zeynep56@hotmail.com|05206160869,27/01/2023,1016,€21.16,6,"Millet Cad. No:22, Sakarya, Turkey",Processing,,0,electronics
+Tarık Güneş|tarık75@gmail.com|05234713654,2024-06-07,1010,$196.35,-3,"İstiklal Cad. No:7, Adana, Türkiye",Delivered,0.05,,Electronics
+Mert Öztürk|mert94@gmail.com|05467115185,2023-01-20,1004,$311.66,6,"Gazi Cad. No:88, Ankara, TURKEY",Delivered,0.15,5,clothing
+Ahmet Yılmaz|ahmet67@yahoo.com|05499111742,2023-09-05,1014,"319,61",8,"Millet Cad. No:22, Bursa, TR",Shiped,30%,0,home
+Barış Erdoğan|barış25@hotmail.com|05172634721,29/02/2024,1002,€422.94,4,"Cumhuriyet Blv. No:3, Bursa, Turkey",Shiped,,4,Home & Garden
+Mert Öztürk|mert29@hotmail.com|05155941719,2023-06-04,1002,"288,03",9,"Gazi Cad. No:88, Bursa, Türkiye",PROCESSING,,3,Clothing
+Zeynep Kaya|zeynep90@gmail.com|05376308382,29/05/2024,1004,"271,19",3,"İstiklal Cad. No:7, Sakarya, Turkey",Returned,0.10,6,BOOKS
+,2024-01-14,1018,$60.38,-3,"İstiklal Cad. No:7, Izmir, Turkey",PROCESSING,10%,4,Books
+Tarık Güneş|tarık84@gmail.com|05169823994,2024-11-21,1018,€191.72,14,"Gazi Cad. No:88, Istanbul, TURKEY",Deliverd,5%,4,Clothing
+Zeynep Kaya|zeynep43@gmail.com|05389683481,2023-10-13,1003,245.57,20,"Bağdat Cad. No:45, Sakarya, TURKEY",Returned,0.10,4,Clothing
+Hakan Doğan|hakan85@outlook.com|05598912226,18/11/2023,1004,293.93,10,"Millet Cad. No:22, Sakarya, Türkiye",,30%,,clothing
+Tarık Güneş|tarık65@outlook.com|05213777286,2023-07-24,1005,43.2,1,"İstiklal Cad. No:7, Antalya, TURKEY",Delivered,30%,4,Home & Garden
+Fatma Şahin|fatma18@gmail.com|05564574477,12-26-2023,1011,"494,14",0,"Millet Cad. No:22, Istanbul, Türkiye",Shipped,0.15,0,
+Hakan Doğan|hakan66@gmail.com|05176805039,2023-06-21,1013,$177.95,-1,"Millet Cad. No:22, Adana, TR",PROCESSING,15%,6,BOOKS
+Fatma Şahin|fatma34@outlook.com|05235669851,09-03-2024,1011,$59.13,17,"İstiklal Cad. No:7, Sakarya, Türkiye",Returned,,0,ELECTRONICS
+Deniz Kurt|deniz43@yahoo.com|05193304606,11/10/2024,,€373.38,4,"Gazi Cad. No:88, Sakarya, TR",Shipped,0.05,5,Electronics
+Deniz Kurt|deniz53@outlook.com|05321160783,12-28-2024,1010,$297.13,16,"Bağdat Cad. No:45, Izmir, Turkey",Delivered,20%,5,Clothing
+Mert Öztürk|mert80@yahoo.com|05298061051,2023-04-18,1007,$15.85,20,"Atatürk Cad. No:12, Bursa, Turkey",Shipped,,2,Clothing
+Gül Yıldız|gül30@hotmail.com|05276144280,06/11/2023,1015,$51.06,-3,"Atatürk Cad. No:12, Antalya, Turkey",Processing,30%,5,ELECTRONICS
+Selin Koç|selin45@hotmail.com|05597869154,14/09/2023,1005,442.7,16,"Millet Cad. No:22, Izmir, TR",Deliverd,0.15,5,Electronics
+Merve Aksoy|merve7@yahoo.com|05305234550,09-29-2024,1006,"261,89",12,"İstiklal Cad. No:7, Antalya, TR",Shipped,20%,5,home
+Zeynep Kaya|zeynep43@yahoo.com|05271548888,01/08/2024,1008,"72,15",14,"Gazi Cad. No:88, Ankara, TR",,15%,5,Books
+Elif Çelik|elif79@hotmail.com|05545960271,15/07/2024,1011,305.07,10,"Cumhuriyet Blv. No:3, Bursa, Türkiye",Returned,,5,Clothing
+Gül Yıldız|gül59@gmail.com|05521432519,05-05-2024,1005,$6.4,16,"Atatürk Cad. No:12, Istanbul, TURKEY",Processing,,3,ELECTRONICS
+Ahmet Yılmaz|ahmet40@outlook.com|05197375341,04/10/2023,1002,221.36,0,"Gazi Cad. No:88, Antalya, TURKEY",Deliverd,0.10,5,Electronics
+Selin Koç|selin6@yahoo.com|05579111841,02-02-2024,1018,$238.69,14,"Millet Cad. No:22, Izmir, Turkey",Delivered,30%,5,Home & Garden
+Merve Aksoy|merve93@outlook.com|05133818391,01-31-2023,1009,"20,39",2,"Bağdat Cad. No:45, Izmir, TR",Processing,0.05,4,ELECTRONICS
+Hakan Doğan|hakan2@yahoo.com|05491483456,2024-06-15,1003,$408.41,8,"Millet Cad. No:22, Adana, TURKEY",Shipped,0.05,2,Books
+Ayşe Polat|ayşe66@yahoo.com|05558487220,25/07/2023,1011,142.95,17,"Gazi Cad. No:88, Antalya, Türkiye",Processing,0.05,1,Home & Garden
+Tarık Güneş|tarık44@yahoo.com|05358377556,12-09-2024,1006,"234,99",18,"Atatürk Cad. No:12, Adana, Türkiye",Cancelled,5%,6,BOOKS
+Gül Yıldız|gül89@gmail.com|05328593275,02-01-2024,1016,"287,47",15,"Gazi Cad. No:88, Istanbul, Türkiye",Delivered,30%,6,clothing
+Gül Yıldız|gül63@hotmail.com|05594246352,12-25-2024,1007,"435,08",16,"Gazi Cad. No:88, Ankara, Turkey",Cancelled,0.15,4,Home & Garden
+Gül Yıldız|gül22@yahoo.com|05367788043,04-10-2023,1011,€322.09,5,"Millet Cad. No:22, Izmir, TR",Shiped,5%,5,Clothing
+Deniz Kurt|deniz77@outlook.com|05459116148,03-07-2023,1012,"141,4",16,"Millet Cad. No:22, Bursa, Turkey",Cancelled,,4,Home & Garden
+Mert Öztürk|mert12@gmail.com|05246812025,06-16-2024,1003,€231.09,14,"Gazi Cad. No:88, Istanbul, Turkey",Deliverd,0%,4,BOOKS
+Hakan Doğan|hakan17@gmail.com|05517575963,06-04-2024,,"355,27",4,"İstiklal Cad. No:7, Sakarya, TR",Returned,15%,4,Clothing
+Hakan Doğan|hakan56@yahoo.com|05293163099,05-16-2024,1005,"219,69",16,"Atatürk Cad. No:12, Ankara, TURKEY",Shipped,30%,5,ELECTRONICS
+Merve Aksoy|merve87@outlook.com|05579237735,10-10-2024,1011,$408.66,10,"Cumhuriyet Blv. No:3, Istanbul, TURKEY",Returned,,5,home
+Barış Erdoğan|barış54@gmail.com|05145793722,03-06-2024,1014,$225.73,14,"Gazi Cad. No:88, Bursa, Turkey",Returned,10%,0,Books
+Ayşe Polat|ayşe9@hotmail.com|05212436363,2024-11-03,1004,"123,03",-2,"Bağdat Cad. No:45, Istanbul, Türkiye",Processing,0.15,2,Books
+Burak Aydın|burak45@hotmail.com|05547070880,30/08/2023,1011,"217,5",15,"Millet Cad. No:22, Istanbul, TR",Shipped,,0,home
+Selin Koç|selin90@yahoo.com|05316086650,2023-09-03,1005,"457,8",11,"Gazi Cad. No:88, Adana, TURKEY",Processing,20%,5,clothing
+Ayşe Polat|ayşe22@yahoo.com|05393822492,2023-07-08,1012,"441,99",13,"Atatürk Cad. No:12, Sakarya, Turkey",Shiped,10%,2,electronics
+Hakan Doğan|hakan55@gmail.com|05314934345,16/02/2023,1009,€486.69,13,"İstiklal Cad. No:7, Izmir, TR",Returned,,0,clothing
+Fatma Şahin|fatma62@outlook.com|05366540252,2023-08-04,1009,$135.34,20,"Bağdat Cad. No:45, Istanbul, Turkey",Shipped,,5,
+Barış Erdoğan|barış83@gmail.com|05237923193,18/11/2024,1001,$82.38,12,"İstiklal Cad. No:7, Izmir, TURKEY",Shipped,,3,Clothing
